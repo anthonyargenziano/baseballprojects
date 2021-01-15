@@ -1,6 +1,6 @@
 # baseballprojects
 
-Hello, I'm Anthony Argenziano, and I'm an MBA student at Yale School of Management, and recent 2020 graduate of Columbia University, where I majored in economics and statistics.
+Hello, I'm Anthony Argenziano. I'm an MBA student at Yale School of Management, and recent 2020 graduate of Columbia University, where I majored in economics and statistics.
 
 This repository houses my baseball-related projects, analyses, and papers. I mostly utilize R, however have experience writing basic programs in Python, as well as with writing queries in SQL. I will continue to add projects as I perform them.
 
